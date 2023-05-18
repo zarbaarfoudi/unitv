@@ -1,0 +1,66 @@
+{
+    "config" : [
+        {
+            "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
+            
+            "int_interval" : 2,
+            "activate_ads" : "false",
+            "custom_banner" : "false",
+            "one_signal" : "8513c54f-8c2d-4637-b567-dafbf134dc11",
+            "network" : "admob",
+
+            "unity_game_id" : "",
+            "unity_int" : "",
+            "unity_ban" : "",
+            
+            "admob_ban" : "ca-app-pub-3629815529824806/6053764039",
+            "admob_native" : "ca-app-pub-3629815529824806/2907929784",
+            "admob_int" : "ca-app-pub-3629815529824806/4740682369",
+            "admob_rewarded" : "ca-app-pub-3629815529824806/9281766446",
+
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
+            "yandex_rewarded" : "",
+
+            "iron_key": "",
+            "iron_ban" : "",
+            "iron_int" : "",
+
+            "max_ban" : "0c6ebb72412c8548",
+            "max_native" : "50bcc70e5c1d1159",
+            "max_int" : "06b76ae96ad911ad",
+            "max_reward" : "",
+
+            "fan_ban": "216030951031492_216032691031318",
+            "fan_native": "216030951031492_216032987697955",
+            "fan_int": "216030951031492_216032741031313",
+            "fan_rewarded": "216030951031492_216033077697946",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=ks.apps.scorpio",
+            "update_ico": "https://lh3.googleusercontent.com/ZvUTSIZ5zhZr6VzPBAYJSMbyt0TZHY7suQ1fWVOkLZKzsuBVSbiahk9hHAMpN6gINto"
+        }
+    ],
+    
+    "custom" : [
+        {
+            "name" : "Instale e abra o Shopee",
+            "title" : "Shopping App",
+            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
+            "ico2" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310",
+            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
+            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647"
+        }
+    ],
+    
+    "friends" : [
+        {
+            "name" : "IPVanish VPN Android ",
+            "ico" : "https://i.gyazo.com/6dc57a840fb93d7adae7717bda7fa06c.png",
+            "link" : "https://smrturl.co/o/132220/53282419?s1=",
+            "cat" : "VPN Android App",
+            "video" : ""
+        }
+    ]
+}
